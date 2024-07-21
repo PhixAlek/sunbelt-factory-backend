@@ -1,4 +1,4 @@
-package com.sunbelt_factory.consult_data.domain.exception;
+package com.sunbelt_factory.consultdata.domain.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.sunbelt_factory.consult_data;
+package com.sunbelt_factory.consultdata;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.sunbelt_factory.consult_data;
+package com.sunbelt_factory.consultdata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

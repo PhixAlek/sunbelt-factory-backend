@@ -1,4 +1,4 @@
-package com.sunbelt_factory.consult_data.domain.model;
+package com.sunbelt_factory.consultdata.domain.model;
 
 public class Customer {
 
