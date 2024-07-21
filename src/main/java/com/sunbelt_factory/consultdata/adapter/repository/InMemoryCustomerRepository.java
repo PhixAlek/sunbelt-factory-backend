@@ -1,4 +1,4 @@
-package com.sunbelt_factory.consultdata.adapter.controller.repository;
+package com.sunbelt_factory.consultdata.adapter.repository;
 
 import com.sunbelt_factory.consultdata.domain.model.Customer;
 import com.sunbelt_factory.consultdata.domain.repository.CustomerRepository;
