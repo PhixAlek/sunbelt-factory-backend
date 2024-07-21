@@ -1,6 +1,6 @@
-package com.sunbelt_factory.consultdata.aplication.service;
+package com.sunbelt_factory.consultdata.application.service;
 
-import com.sunbelt_factory.consultdata.aplication.dto.CustomerDTO;
+import com.sunbelt_factory.consultdata.application.dto.CustomerDTO;
 import com.sunbelt_factory.consultdata.domain.exception.CustomerNotFoundException;
 import com.sunbelt_factory.consultdata.domain.model.Customer;
 import com.sunbelt_factory.consultdata.domain.repository.CustomerRepository;
