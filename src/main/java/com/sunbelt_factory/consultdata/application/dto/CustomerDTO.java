@@ -1,4 +1,4 @@
-package com.sunbelt_factory.consultdata.aplication.dto;
+package com.sunbelt_factory.consultdata.application.dto;
 
 /**
  * Data Transfer Object for customer information.
