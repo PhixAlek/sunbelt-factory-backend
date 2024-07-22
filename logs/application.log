@@ -1,0 +1,101 @@
+2024-07-21 17:04:01 INFO  c.s.c.SunbeltConsultDataApplication - Starting SunbeltConsultDataApplication using Java 21.0.4 with PID 4440 (C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend\target\classes started by migue in C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend)
+2024-07-21 17:04:01 INFO  c.s.c.SunbeltConsultDataApplication - The following 1 profile is active: "dev"
+2024-07-21 17:04:02 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-21 17:04:02 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-21 17:04:02 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-21 17:04:02 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-21 17:04:02 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-21 17:04:02 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 956 ms
+2024-07-21 17:04:03 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-21 17:04:03 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-07-21 17:04:03 INFO  c.s.c.SunbeltConsultDataApplication - Started SunbeltConsultDataApplication in 1.856 seconds (process running for 2.184)
+2024-07-21 17:04:31 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 17:04:31 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-21 17:04:31 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-07-21 17:04:31 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@5b92a126
+2024-07-21 17:06:04 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@5b92a126
+2024-07-21 18:45:20 INFO  c.s.c.SunbeltConsultDataApplication - Starting SunbeltConsultDataApplication using Java 21.0.4 with PID 24416 (C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend\target\classes started by migue in C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend)
+2024-07-21 18:45:20 INFO  c.s.c.SunbeltConsultDataApplication - The following 1 profile is active: "dev"
+2024-07-21 18:45:20 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-21 18:45:20 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-21 18:45:20 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-21 18:45:20 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-21 18:45:21 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-21 18:45:21 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 944 ms
+2024-07-21 18:45:21 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-21 18:45:21 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-07-21 18:45:21 INFO  c.s.c.SunbeltConsultDataApplication - Started SunbeltConsultDataApplication in 1.822 seconds (process running for 2.145)
+2024-07-21 18:45:38 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 18:45:38 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-21 18:45:38 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-07-21 18:45:38 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 18:45:52 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@6ff09159
+2024-07-21 18:52:40 INFO  c.s.c.SunbeltConsultDataApplication - Starting SunbeltConsultDataApplication using Java 21.0.4 with PID 5332 (C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend\target\classes started by migue in C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend)
+2024-07-21 18:52:40 INFO  c.s.c.SunbeltConsultDataApplication - The following 1 profile is active: "dev"
+2024-07-21 18:52:41 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-21 18:52:41 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-21 18:52:41 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-21 18:52:41 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-21 18:52:41 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-21 18:52:41 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 954 ms
+2024-07-21 18:52:41 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-21 18:52:41 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-07-21 18:52:41 INFO  c.s.c.SunbeltConsultDataApplication - Started SunbeltConsultDataApplication in 1.822 seconds (process running for 2.128)
+2024-07-21 18:53:06 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 18:53:06 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-21 18:53:06 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-07-21 18:53:06 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 18:53:15 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 18:53:35 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 18:57:23 INFO  c.s.c.SunbeltConsultDataApplication - Starting SunbeltConsultDataApplication using Java 21.0.4 with PID 24688 (C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend\target\classes started by migue in C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend)
+2024-07-21 18:57:23 INFO  c.s.c.SunbeltConsultDataApplication - The following 1 profile is active: "dev"
+2024-07-21 18:57:23 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-21 18:57:23 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-21 18:57:23 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-21 18:57:23 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-21 18:57:24 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-21 18:57:24 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 911 ms
+2024-07-21 18:57:24 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-21 18:57:24 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-07-21 18:57:24 INFO  c.s.c.SunbeltConsultDataApplication - Started SunbeltConsultDataApplication in 1.832 seconds (process running for 2.159)
+2024-07-21 18:57:31 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 18:57:31 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-21 18:57:31 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-07-21 18:57:31 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 19:06:20 INFO  c.s.c.SunbeltConsultDataApplication - Starting SunbeltConsultDataApplication using Java 21.0.4 with PID 10024 (C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend\target\classes started by migue in C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend)
+2024-07-21 19:06:20 INFO  c.s.c.SunbeltConsultDataApplication - The following 1 profile is active: "pdn"
+2024-07-21 19:06:21 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8090 (http)
+2024-07-21 19:06:21 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2024-07-21 19:06:21 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-21 19:06:21 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-21 19:06:21 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-21 19:06:21 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 974 ms
+2024-07-21 19:06:22 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2024-07-21 19:06:22 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8090 (http) with context path '/'
+2024-07-21 19:06:22 INFO  c.s.c.SunbeltConsultDataApplication - Started SunbeltConsultDataApplication in 1.826 seconds (process running for 2.14)
+2024-07-21 19:06:29 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 19:06:29 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-21 19:06:29 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-07-21 19:06:29 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@703bc76e
+2024-07-21 19:06:38 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=55
+2024-07-21 19:06:50 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@703bc76e
+2024-07-21 19:07:01 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@703bc76e
+2024-07-21 19:07:19 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@703bc76e
+2024-07-21 19:07:24 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 19:20:51 INFO  c.s.c.SunbeltConsultDataApplication - Starting SunbeltConsultDataApplication using Java 21.0.4 with PID 17852 (C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend\target\classes started by migue in C:\Users\migue\Desktop\Sunblet\sunbelt-factory-backend)
+2024-07-21 19:20:51 INFO  c.s.c.SunbeltConsultDataApplication - The following 1 profile is active: "pdn"
+2024-07-21 19:20:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8090 (http)
+2024-07-21 19:20:52 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2024-07-21 19:20:52 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-21 19:20:52 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-21 19:20:52 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-21 19:20:52 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 939 ms
+2024-07-21 19:20:53 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2024-07-21 19:20:53 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8090 (http) with context path '/'
+2024-07-21 19:20:53 INFO  c.s.c.SunbeltConsultDataApplication - Started SunbeltConsultDataApplication in 1.823 seconds (process running for 2.123)
+2024-07-21 19:21:06 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 19:21:06 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-21 19:21:06 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-07-21 19:21:06 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
+2024-07-21 19:21:11 INFO  c.s.c.a.service.CustomerService - Customer found: com.sunbelt_factory.consultdata.domain.model.Customer@220f56cf
+2024-07-21 19:21:18 INFO  c.s.c.a.service.CustomerService - Customer not found: documentType=C, documentNumber=65456
